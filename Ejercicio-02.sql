@@ -1,0 +1,1 @@
+SELECT company FROM customers where company like '%A';

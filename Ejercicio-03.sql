@@ -1,0 +1,1 @@
+SELECT * FROM products order by product_name desc;
